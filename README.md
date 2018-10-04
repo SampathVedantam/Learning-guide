@@ -1,2 +1,2 @@
 # Learning-guide
-A complete guide about the research and understandings
+A complete guide about the machine learning research and understandings
